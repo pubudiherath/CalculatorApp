@@ -1,0 +1,11 @@
+.DS_Store
+
+*/build/*
+
+*xcworkspace/xcuserdata/*
+
+*/xcuserdata/*
+
+xcworkspace/xcuserdata/
+
+xcuserdata/
